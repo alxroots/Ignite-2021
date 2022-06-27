@@ -19,7 +19,7 @@ export const Content = styled.div`
         color: #fff;
         background-color: var(--blue-light);
         border: 0;
-        padding: 0.25rem;
+        padding: 0.25rem 1.5rem;
         height: 3rem;
 
         transition: filter 0.2s;
