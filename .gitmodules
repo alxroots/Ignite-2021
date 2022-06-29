@@ -1,0 +1,3 @@
+[submodule "challenges/challenges/03-ignite-challenge"]
+	path = challenges/challenges/03-ignite-challenge
+	url = https://github.com/alxroots/Ignite-2021
